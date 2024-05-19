@@ -7,8 +7,8 @@
   "repository": "https://github.com/AbhishekSuresh2/Phoenix-MD",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
-      "description": "Enter Your Session ID",
+    "SESSION_ID": {Phoenix~ft2K1Jg3
+      "description": "Phoenix~ft2K1Jg3",
       "required": true
     },
     "HANDLERS": {
@@ -29,7 +29,7 @@
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
       "required": false,
-      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️"
+      "value": "🎯satsara official☘️"
     },
     "AUTO_DATA": {
       "description": "Enter Your Audio Data",
@@ -37,17 +37,17 @@
       "value": "Phoenix-MD;Abhishek Suresh;https://graph.org/file/8976892f2f615077b48cd.jpg"
     },
     "OWNER_NAME": {
-      "description": "Enter Your Owner Name",
+      "description": "satsara official",
       "required": false,
-      "value": "Abhishek Suresh"
+      "value": "satsara official"
     },
     "OWNER_NUMBER": {
-      "description": "Enter Your Owner Number",
+      "description": "+94775472083",
       "required": false,
-      "value": "919074692450"
+      "value": "+94775472083"
     },
     "BOT_NAME": {
-      "description": "Enter Your Bot Name",
+      "description": "sade_°boy°_official",
       "required": false,
       "value": "Phoenix-MD"
     },
@@ -56,11 +56,11 @@
       "required": false,
       "value": "public"
     },
-    "HEROKU_APP_NAME": {
+    "HEROKU_APP_NAME": {sadew2024
       "description": "Enter Your Heroku App Name Same As Above You Entered",
       "required": true
     },
-    "HEROKU_API_KEY": {
+    "HEROKU_API_KEY": {HRKU-be55b307-234e-4505-b995-3f8075166b51
       "description": "Enter Your Heroku Account Api Key. Get It From https://dashboard.heroku.com/account",
       "required": true
     },
@@ -72,7 +72,7 @@
     "AUTO_STATUS_READ": {
       "description": "If You Want To View Status Automatically, Type true. Otherwise, Type false",
       "required": false,
-      "value": "false"
+      "value": "true"
     }
   },
   "buildpacks": [
